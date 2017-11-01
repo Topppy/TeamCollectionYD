@@ -1,2 +1,2 @@
 # TeamCollectionYD
-前端资料搜集
+差生互帮互助学习小组
